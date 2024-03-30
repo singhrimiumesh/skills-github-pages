@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-Hello! This ia Rimi Singh
+Hello! This is Rimi Singh
